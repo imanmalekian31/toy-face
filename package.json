@@ -17,9 +17,9 @@
   "scripts": {
     "build": "rollup -c"
   },
-  "main": "src/index.js",
+  "main": "./dist/bundle.js",
   "files": [
-    "src"
+    "dist/*"
   ],
   "devDependencies": {
     "@babel/core": "^7.19.3",

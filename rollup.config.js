@@ -10,6 +10,7 @@ export default {
     terser(),
   ],
   output: [
+    { file: "dist/bundle.js" },
     { file: "dist/bundle.cjs.js", format: "cjs" },
     { file: "dist/bundle.esm.js", format: "esm" },
   ],
