@@ -2,6 +2,7 @@
   "name": "toy-face",
   "version": "1.0.0",
   "private": false,
+  "description": "Toy Face",
   "author": {
     "name": "Iman Malekian",
     "email": "imanmalekian31@gmail.com"
