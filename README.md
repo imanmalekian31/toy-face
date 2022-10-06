@@ -8,10 +8,21 @@
 
 [Demo](https://vue-toy-face.vercel.app/)
 
+## Installation
+
+```shell
+# npm
+$ npm install toy-face
+# yarn
+$ yarn add toy-face
+```
+
 ## Usage
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/imanmalekian31/toy-face/dist/bundle.js"></script>
+OR
+<script src="node_modules/toy-face/dist/bundle.js"></script>
 ...
 <toy-face size="180" rounded="20" toy-number="18" group="2"></toy-face>
 ```
